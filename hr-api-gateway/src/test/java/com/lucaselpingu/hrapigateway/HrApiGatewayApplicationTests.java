@@ -1,10 +1,10 @@
-package com.lucaselpingu.grapigatewayzuul;
+package com.lucaselpingu.hrapigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrApiGatewayZuulApplicationTests {
+class HrApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {

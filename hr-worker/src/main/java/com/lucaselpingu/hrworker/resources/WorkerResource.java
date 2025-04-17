@@ -13,7 +13,7 @@ import com.lucaselpingu.hrworker.entities.Worker;
 import com.lucaselpingu.hrworker.service.WorkerService;
 
 @RestController
-@RequestMapping(value = "/workers")
+@RequestMapping("/workers")
 public class WorkerResource {
 	
 	@Autowired
